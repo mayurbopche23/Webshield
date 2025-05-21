@@ -1,0 +1,5 @@
+{
+  "websites": ["https://example.com"],
+  "rate_limit": 100,
+  "ssl_check_interval": 86400
+}
